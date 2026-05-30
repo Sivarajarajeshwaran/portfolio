@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: sivaraja-portfolio
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npx http-server . -p $PORT --cors -c-1
+    envVars:
+      - key: NODE_ENV
+        value: production

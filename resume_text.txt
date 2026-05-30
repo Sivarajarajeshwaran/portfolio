@@ -1,0 +1,35 @@
+1
+•  Good communication and teamwork
+•  Ability to quickly learn new technologies
+•  Strong problem-solving and analytical skills
+Additional Information
+Livewire, Mayiladuthurai
+Full Stack Development Course
+Training
+Arc Viswanathan College
+B.Sc. Computer Science
+Education
+•  Improved data retrieval efficiency through optimized queries.
+•  Developed backend APIs for data handling and validation.
+•  Built a web-based system to manage student records using Node.js and MySQL.
+Student Management System
+•  Managed database operations using MongoDB.
+•  Designed responsive UI using Bootstrap and CSS.
+•  Implemented CRUD operations and user authentication.
+•  Developed a full-stack web application using React.js and Node.js with RESTful API integration.
+Full Stack Web Application (MERN)
+Projects
+• Tools:  Git, GitHub, VS Code
+• Concepts:  REST API, CRUD Operations, Authentication
+• Databases:  MongoDB, MySQL
+• Backend:  Node.js, Express.js
+• Frontend:  HTML, CSS, JavaScript, React.js, Bootstrap
+Technical Skills
+database management.  Passionate about developing scalable and user-friendly applications.
+stack  (MongoDB,  Express.js,  React.js,  Node.js).   Strong  understanding  of  REST  APIs,  CRUD  operations,  and
+Entry-level Full Stack Developer with hands-on experience in building responsive web applications using MERN
+Professional Summary
+GitHub| LinkedIn
+iamsivacdm@gmail.com| 6382799989
+A. Sivaraja Rajeswaran
+----------------Page (0) Break----------------
