@@ -56,7 +56,7 @@ const Hero = () => {
                         </div>
                     </div>
                     <div className="col-lg-5 fade-in-up mt-5 mt-lg-0 text-end">
-                        <img src="./background-removed-background-removed.png" alt="A. Sivaraja Rajeswaran" className="img-fluid hero-image" />
+                        <img src="./WhatsApp_Image_2026-06-01_at_11.08.31_AM-removebg-preview.png" alt="A. Sivaraja Rajeswaran" className="img-fluid hero-image" />
                     </div>
                 </div>
             </div>
@@ -82,7 +82,7 @@ const About = () => {
                         <div className="glass-card p-4 h-100">
                             <h3 className="h4 mb-3 text-gradient">Professional Summary</h3>
                             <p className="text-white" style={{ lineHeight: '1.8' }}>
-                                Entry-level Full Stack Developer with hands-on experience in building responsive web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). 
+                                Entry-level Full Stack Developer with hands-on experience in building responsive web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js).
                             </p>
                             <p className="text-white" style={{ lineHeight: '1.8' }}>
                                 I possess a strong understanding of REST APIs, CRUD operations, and database management. I am highly passionate about developing scalable and user-friendly applications while continuously improving my problem-solving and analytical skills.
@@ -229,7 +229,7 @@ const Contact = () => {
                     </div>
                 </div>
             </div>
-            
+
             <footer className="py-4 text-center">
                 <div className="container">
                     <p className="text-white mb-0">
