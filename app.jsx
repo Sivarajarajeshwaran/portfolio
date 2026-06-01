@@ -125,7 +125,8 @@ const Projects = () => {
                 "Designed a highly responsive UI using Bootstrap and custom CSS.",
                 "Managed database operations and schema design using MongoDB."
             ],
-            icon: "fas fa-laptop-code"
+            icon: "fas fa-laptop-code",
+            liveLink: "https://frontend-mcgb.onrender.com"
         },
         {
             title: "Student Management System",
@@ -152,11 +153,16 @@ const Projects = () => {
                                     </div>
                                     <h3 className="h5 mb-0 text-white">{project.title}</h3>
                                 </div>
-                                <ul className="mb-0 flex-grow-1">
+                                <ul className="mb-3 flex-grow-1">
                                     {project.description.map((item, idx) => (
                                         <li key={idx}>{item}</li>
                                     ))}
                                 </ul>
+                                {project.liveLink && (
+                                    <a href={project.liveLink} target="_blank" rel="noopener noreferrer" className="btn btn-primary-gradient">
+                                        <i className="fas fa-external-link-alt me-2"></i>Live Demo
+                                    </a>
+                                )}
                             </div>
                         </div>
                     ))}
