@@ -215,15 +215,20 @@ const Contact = () => {
                             I am currently open for full-time entry-level positions. Whether you have a question or just want to say hi, I'll try my best to get back to you!
                         </p>
                         <div className="d-flex flex-wrap justify-content-center gap-4">
-                            <a href="mailto:iamsivacdm@gmail.com" className="glass-card p-4 text-decoration-none text-white text-center" style={{ minWidth: "250px" }}>
+                            <div className="glass-card p-4 text-decoration-none text-white text-center" style={{ minWidth: "250px", cursor: "default" }}>
                                 <i className="fas fa-envelope fa-2x mb-3 text-primary"></i>
                                 <h4 className="h6 mb-1">Email</h4>
                                 <p className="text-white mb-0">iamsivacdm@gmail.com</p>
-                            </a>
-                            <a href="tel:6382799989" className="glass-card p-4 text-decoration-none text-white text-center" style={{ minWidth: "250px" }}>
+                            </div>
+                            <div className="glass-card p-4 text-decoration-none text-white text-center" style={{ minWidth: "250px", cursor: "default" }}>
                                 <i className="fas fa-phone-alt fa-2x mb-3 text-primary"></i>
                                 <h4 className="h6 mb-1">Phone</h4>
                                 <p className="text-white mb-0">6382799989</p>
+                            </div>
+                            <a href="https://wa.me/916382799989" target="_blank" rel="noopener noreferrer" className="glass-card p-4 text-decoration-none text-white text-center" style={{ minWidth: "250px" }}>
+                                <i className="fab fa-whatsapp fa-2x mb-3" style={{ color: "#25D366" }}></i>
+                                <h4 className="h6 mb-1">WhatsApp</h4>
+                                <p className="text-white mb-0">Chat with me</p>
                             </a>
                         </div>
                     </div>
